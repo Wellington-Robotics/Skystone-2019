@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BulletMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TankMovement.cs" Line="42" Column="36" />
+      <File FileName="Assets/Scripts/BulletMovement.cs" Line="30" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tank" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="BulletMovement.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
